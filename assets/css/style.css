@@ -1,0 +1,136 @@
+
+.login {
+    font-size: 29px;
+}
+
+.m-cart {
+    font-size: 29px;
+}
+
+.offers {
+    font-size: 15px;
+    border: 2px solid;
+    color: black;
+    padding: 5px;
+    border-radius: 200px;
+}
+.navbar ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.navbar ul li{
+    padding: 15px;
+    align-items: center;
+}
+.navbar-1 ul li a{
+    align-items: center;
+}
+.prod .img-main{
+    width: 130px;
+    height: 200px;
+    border-radius: 15px;
+
+}
+.prod h4{
+    text-align: center;
+    padding-top: 10px;
+    color: darkgray;
+}
+.prod a{
+    text-decoration: none;
+}
+.prod button{
+    background-color: orange;
+    color:white;
+    display:block;
+    width:max-content;
+    /* border-radius: 100px; */
+    align-items: center;
+}
+.category{
+    padding-top: 10px;
+}
+.category h3{  
+    color: mediumturquoise;
+}
+.category button a{
+    text-decoration: none;
+    color: darksalmon;
+    float: right;
+}
+.sell img{
+    height: 150px;
+}
+.sell .weight{
+    color:lightgrey;
+    padding-left: 10px;
+}
+.sell .amount i{
+    color: black;
+    font-size: 10px;
+    padding: 5px;
+}
+.sell .amount{
+    color: green;
+}
+.footer{
+    margin-top: 30px;
+    background-color: darkgray;
+}
+.info{
+    padding: 20px;
+}
+.info a{
+    padding: 15px;
+    color: black;
+}
+.f-msg{
+    text-align: center;
+}
+.msg{
+    text-align: center;
+    padding: 10px;
+    color:darkslategray;
+}
+.b-sell{
+    color: steelblue;
+}
+.shop-c{
+    margin-top: 50px;
+}
+.view-c .img-main{
+    width: 135px;
+    height: 150px;
+    border-radius: 15px;
+}
+.view-c h4{
+    padding-top: 10px;
+    color: darkgray;
+}
+.view-c a{
+    text-decoration: none;
+}
+.bread{
+    margin-left: 25px;
+}
+.bread ol li a{
+    text-decoration: none;
+    color:black;
+    font-size:x-large;
+}
+.bread ol li a.hover,
+.bread ol li a.active{
+    color: orange;
+    cursor: pointer;
+}
+.sym-1{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.sym-2{
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size:20px;
+    color: black;
+}
